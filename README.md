@@ -6,7 +6,9 @@ This project was part of assignments from the Machine Learning course *(CS 688 F
 
 MNIST NN draft-2.ipynb ---> MAIN file.
 
-MNIST NN ------------------> previous version of MAIN file.
+MNIST NN.ipynb -----------> previous version of MAIN file.
+
+mnist_2_vs_9.gz ------------> Dataset
 
 hw3.pdf ---------------------> instructions for the assignment.
 
