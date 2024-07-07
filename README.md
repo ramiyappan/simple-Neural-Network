@@ -1,4 +1,8 @@
-# Files on the repository
+# Simple Neural Network
+
+Classify hand-written digits 2 & 9 using an Artificial Neural network in Pytorch framework.
+
+## Files on the repository
 
 `MNIST NN draft-2.ipynb` - MAIN file.
 
